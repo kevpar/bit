@@ -1,4 +1,4 @@
-module github.com/kevpar/test/bit
+module github.com/kevpar/bit
 
 go 1.20
 
